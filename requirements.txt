@@ -1,0 +1,7 @@
+ucimlrepo
+scikit-learn
+shap
+fairlearn
+matplotlib
+seaborn
+notebook
